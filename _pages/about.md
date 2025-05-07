@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scholar at the Indian Institute of Technology Mandi, Himachal Pradesh, India. I have submitted my thesis and looking for a Postdoc position. Due my Ph.D., I have worked on controllability of fractional dynamical systems and synchronization of fractional-order neural networks. 
+I am a Research Scholar at the Indian Institute of Technology Mandi, Himachal Pradesh, India. I have submitted my thesis and looking for a Postdoc position. During my Ph.D., I have worked on controllability of fractional dynamical systems and synchronization of fractional-order neural networks. 
 
 Research 
 ======
