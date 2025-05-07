@@ -2,7 +2,7 @@
 title: "Controllability of Prabhakar fractional dynamical systems"
 collection: publications
 category: manuscripts
-permalink: [/publication/2009-10-01-paper-title-number-1](https://doi.org/10.1007/s12346-023-00919-4}{DOI:10.1007/s12346-023-00919-4)
+permalink: https://doi.org/10.1007/s12346-023-00919-4}{DOI:10.1007/s12346-023-00919-4
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024
 venue: 'Qualitative Theory of Dynamical Systems'
