@@ -22,7 +22,7 @@ repository               : "MdSamshadhussain/MdSamshadhussain.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "MdSam.png"
+  avatar           : "profile.png"
   name             : "Md Samshad Hussain Ansari"
   pronouns         : # example: "she/her"  
   bio              : "Research Scholar at Indian Institute of Technology Mandi"
