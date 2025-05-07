@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-India"
 site_theme               : "default"
-title                    : "Md Samshad Hussain Ansari"
+title                    : "MdSamshadhussain.github.io"
 title_separator          : "-"
 name                     : &name "Md Samshad Hussain Ansari"
 description              : &description "Research Scholar at Indian Institute of Technology Mandi"
