@@ -69,6 +69,19 @@ Workshops
 * Title : Workshop on Scientific Computing, Modeling and Deep Learning (WSCMDL), Organized by : SRM Institute of Science and Technology, Kattankulathur, India, Jan. 5-6, 2024.
 
 
+Honours and Awards
+======
+* 2019 : Scored All India Rank- 82 (JRF(NET)-CSIR) in Joint CSIR-UGC National Eligibility Test (NET) for Junior Research Fellowship (JRF) and eligibility for Lectureshjip (LS)- 2018, the most prestigious entrance exam for Assistant Professor and Ph.D. admission in India.
+* 2020 : Scored All India Rank- 641 in Graduate Aptitute Test in Engineering (GATE) 2020, the most prestigious entrance exam for PhD admission in India.
+* 2021 : Awarded CSIR PhD fellowship from 2021-present for conducting research at IIT Mandi.
+* 2023 : Awarded Best Teaching Assistant for contribution to IC 115 (ODE and Integral Transformations) on the occasion of Teacher’s day 2023 (IIT Mandi).
+* 2024 : Awarded initial financial support of 100000 INR by my research institute’s International Travel Grant for attending the 14th AIMS conference 2024 in NYU Abu Dhabi, UAE.
+
+Work Experience
+======
+* Teaching Assistant at IIT Mandi - Linear Algebra, Engineering Mathematics, Mathematical Foundations of Data Science, ODEs And Integral Transforms, Real and Complex Analysis.
+
+
 ======
 
 
