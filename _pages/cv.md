@@ -82,9 +82,6 @@ Work Experience
 * Teaching Assistant at IIT Mandi - Linear Algebra, Engineering Mathematics, Mathematical Foundations of Data Science, ODEs And Integral Transforms, Real and Complex Analysis.
 
 
-======
-
-
 Skills
 ======
 * MATLAB
